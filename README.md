@@ -3,3 +3,9 @@ Lift4Today is a lifestyle brand, founded by Julie Vogel, a mom and personal trai
 
 The objective of this project is for Lift4Today to transform their website and social media. Lift4Today wants to change their website to be more aesthetically pleasing by lightening up the colors and potentially focusing the theme around the colors of their logo. Our clients
 themselves also want training on how to use social media because they do not consider themselves well versed. Once this training happens, they want to streamline the posts between their social media and website in order to drive traffic specifically to the website. 
+
+# Website:
+https://www.lift4today.com/
+
+# Instagram:
+https://www.instagram.com/lift.4.today/
